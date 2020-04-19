@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DemoWebsite/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/DemoWebsite/static/js/main.b0ee200e.chunk.js",
+    "main.js.map": "/DemoWebsite/static/js/main.b0ee200e.chunk.js.map",
+    "runtime-main.js": "/DemoWebsite/static/js/runtime-main.018186d9.js",
+    "runtime-main.js.map": "/DemoWebsite/static/js/runtime-main.018186d9.js.map",
+    "static/js/2.e3b2ab51.chunk.js": "/DemoWebsite/static/js/2.e3b2ab51.chunk.js",
+    "static/js/2.e3b2ab51.chunk.js.map": "/DemoWebsite/static/js/2.e3b2ab51.chunk.js.map",
+    "index.html": "/DemoWebsite/index.html",
+    "precache-manifest.41e37d4d598bf0ac0ca44c541360f7bb.js": "/DemoWebsite/precache-manifest.41e37d4d598bf0ac0ca44c541360f7bb.js",
+    "service-worker.js": "/DemoWebsite/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/DemoWebsite/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e3b2ab51.chunk.js.LICENSE.txt": "/DemoWebsite/static/js/2.e3b2ab51.chunk.js.LICENSE.txt",
+    "static/media/boatImage.jpg": "/DemoWebsite/static/media/boatImage.d61546cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018186d9.js",
+    "static/js/2.e3b2ab51.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b0ee200e.chunk.js"
+  ]
+}
